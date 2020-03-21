@@ -1,0 +1,6 @@
+[submodule "SMK_analog_driver"]
+	path = SMK_analog_driver
+	url = git@github.com:sedoy-jango-2/SMK_analog_driver.git
+[submodule "SMK_digital_driver"]
+	path = SMK_digital_driver
+	url = git@github.com:sedoy-jango-2/SMK_digital_driver.git

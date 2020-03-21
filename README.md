@@ -1,7 +1,7 @@
 # Servo Motor Kit (SMK)
 ## Краткое описание платы SMK
 Основная информация для начала работы с SMK указана в User Manual, который называется [Servo_Motor_Kit.pdf](https://www.terasic.com.tw/cgi-bin/page/archive_download.pl?Language=English&No=1028&FID=3df9eeb09d7cd8a4d53a1b1eb56b2c4e) . Данный методические указания сформированы на основе указанного мануала.
-![Рисунок 1. Внешний вид SMK.](https://www.terasic.com.tw/attachment/archive/1028/image/smc.jpg)
+![Рисунок 1. Внешний вид SMK.](https://ru.mouser.com/images/marketingid/2016/img/154888976_TerasicTechnologies_ServoMotorKit.png)
 1. SMK (Servo Motor Kit) предназначен для разработчиков, которые хотят изучить управление сервомоторами и построить свою собственную роботизированную машину. 
 2. Плата дает возможность управлять 24 сервомоторами одновременно. 
 3. SMK может быть связана с комплектом разработки FPGA через 2x20-контактный разъем GPIO при помощи специального шлейфа, который идет в комплекте поставки.

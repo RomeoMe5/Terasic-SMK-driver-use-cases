@@ -1,4 +1,4 @@
-# Servo Motor Kit (SMK)
+# Terasic Servo Motor Kit (SMK) usage examples
 ## Краткое описание платы SMK
 Основная информация для начала работы с SMK указана в User Manual, который называется [Servo_Motor_Kit.pdf](https://www.terasic.com.tw/cgi-bin/page/archive_download.pl?Language=English&No=1028&FID=3df9eeb09d7cd8a4d53a1b1eb56b2c4e) . Данный методические указания сформированы на основе указанного мануала.
 
